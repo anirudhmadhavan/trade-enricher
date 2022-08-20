@@ -21,7 +21,7 @@ Application can be further configured to limit size of multipart files passed in
 7. Rows in trades CSV with null, empty rows or rows which does not have exactly 4 non empty values
    are invalid.
 8. Valid Date format is yyyyMMdd.
-9. If any of the rows in trade CSV are not valid (date, values, null), then that row is skipped.
+9. If any of the rows in trade CSV is not valid (date, values, null), then that row is skipped.
 
 ### Technology Used
 
