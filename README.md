@@ -44,8 +44,8 @@ Tested on Open JDK 17.
 
 This automatically starts an embedded server on port 8080.
 
-# API and Sample Output
-
+API and Sample Output
+---------
 `/api/v1/enrich` API
 
 Example CURL:
